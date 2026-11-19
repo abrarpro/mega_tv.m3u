@@ -24,59 +24,68 @@ jobs:
           https://tvsen5.aynaott.com/kP9vX2mZ7qL5wN3t/index.m3u8
           EOF
 
-          # Function that guarantees every channel gets placed inside its proper folder
+          # Downloads cleanly with compression & keeps original sub-folders
           add_playlist() {
-            FOLDER="$1"
+            TV_NAME="$1"
             URL="$2"
-            echo "Fetching $FOLDER..."
-            curl -sL --max-time 25 -A "Mozilla/5.0" "$URL" | tr -d '\r' | grep -v "^#EXTM3U" | awk -v grp="$FOLDER" '
+            echo "Fetching $TV_NAME..."
+            curl -sL --compressed --max-time 30 -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" "$URL" | tr -d '\r' | grep -v "^#EXTM3U" | grep -v "^$" | awk -v tv="$TV_NAME" '
               /^#EXTINF:/ {
-                if ($0 ~ /group-title="[^"]*"/) {
-                  gsub(/group-title="[^"]*"/, "group-title=\"" grp "\"")
+                if (match($0, /group-title="[^"]*"/)) {
+                  orig = substr($0, RSTART + 13, RLENGTH - 14)
+                  if (orig == "" || orig == "Undefined" || orig == "General") {
+                    new_grp = tv " - All"
+                  } else {
+                    new_grp = tv " - " orig
+                  }
+                  sub(/group-title="[^"]*"/, "group-title=\"" new_grp "\"")
                 } else {
-                  sub(/^#EXTINF:[^,]*/, "& group-title=\"" grp "\"")
+                  sub(/^#EXTINF:[^,]*/, "& group-title=\"" tv " - General\"")
                 }
               }
               { print }
             ' >> mega_tv.m3u
           }
 
-          # Original Playlists (Renamed)
+          # Movies & Series First (So they always load right at the top!)
+          add_playlist "MoviTV" "https://iptv-org.github.io/iptv/categories/movies.m3u"
+          add_playlist "Alpha Movi" "https://iptv-org.github.io/iptv/categories/entertainment.m3u"
+          add_playlist "Serisy TV" "https://iptv-org.github.io/iptv/categories/series.m3u"
+          add_playlist "Crossy TV" "https://iptv-org.github.io/iptv/categories/movies.m3u"
+          add_playlist "Nighty TV" "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
+
+          # Sports & Live TV
+          add_playlist "Sporzy TV" "https://iptv-org.github.io/iptv/categories/sports.m3u"
+          add_playlist "Super Sports" "https://iptv-org.github.io/iptv/categories/sports.m3u"
+          add_playlist "Opera TV" "https://iptv-org.github.io/iptv/categories/sports.m3u"
           add_playlist "Livo TV" "https://toffee.aliflaila.live/playlist.m3u"
           add_playlist "Flexo TV" "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/IPTV-Playlist.m3u"
           add_playlist "Forex TV" "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/International-Playlist.m3u"
           add_playlist "Alpha TV" "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
-          add_playlist "Kali TV" "https://iptv-org.github.io/iptv/index.category.m3u"
-          add_playlist "Opera TV" "https://iptv-org.github.io/iptv/categories/sports.m3u"
-          add_playlist "Crossy TV" "https://iptv-org.github.io/iptv/categories/movies.m3u"
-          add_playlist "Tecnical TV" "https://iptv-org.github.io/iptv/categories/news.m3u"
-          add_playlist "Forza TV" "https://iptv-org.github.io/iptv/categories/kids.m3u"
-          add_playlist "Nighty TV" "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_movies.m3u8"
           add_playlist "Jonno TV" "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u"
           add_playlist "Odesy TV" "https://raw.githubusercontent.com/ashik4u/mrgify-clean/main/playlist.m3u"
           add_playlist "Forest TV" "https://raw.githubusercontent.com/time2shine/Rokon-IPTV/main/playlist.m3u"
-          add_playlist "Omee TV" "https://iptv-org.github.io/iptv/countries/uk.m3u"
-          add_playlist "Scholars TV" "https://iptv-org.github.io/iptv/countries/us.m3u"
-          add_playlist "Xtreme TV" "https://iptv-org.github.io/iptv/countries/in.m3u"
-          add_playlist "Quality TV" "https://iptv-org.github.io/iptv/countries/bd.m3u"
-          add_playlist "DisCot TV" "http://adultiptv.net/chs.m3u"
-          add_playlist "DisCot TV" "https://iptvmate.net/files/adult.m3u"
-
-          # Newly Added Playlists
-          add_playlist "Sporzy TV" "https://iptv-org.github.io/iptv/categories/sports.m3u"
-          add_playlist "India Sports" "https://iptv-org.github.io/iptv/countries/in.m3u"
-          add_playlist "BD TV" "https://iptv-org.github.io/iptv/countries/bd.m3u"
           add_playlist "BD Mix" "https://raw.githubusercontent.com/Shadmanislam/bdiptv/master/BD%20IPTV.m3u"
+
+          # Kids, Animation & News
           add_playlist "Cartoon TV" "https://iptv-org.github.io/iptv/categories/kids.m3u"
+          add_playlist "Forza TV" "https://iptv-org.github.io/iptv/categories/kids.m3u"
           add_playlist "Animey TV" "https://iptv-org.github.io/iptv/categories/animation.m3u"
-          add_playlist "Super Sports" "https://iptv-org.github.io/iptv/categories/sports.m3u"
+          add_playlist "Tecnical TV" "https://iptv-org.github.io/iptv/categories/news.m3u"
           add_playlist "Indy News" "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
           add_playlist "BD News" "https://iptv-org.github.io/iptv/categories/news.m3u"
           add_playlist "BD2 News" "https://iptv-org.github.io/iptv/languages/ben.m3u"
           add_playlist "Hindi News" "https://iptv-org.github.io/iptv/languages/hin.m3u"
-          add_playlist "MoviTV" "https://iptv-org.github.io/iptv/categories/movies.m3u"
-          add_playlist "Alpha Movi" "https://iptv-org.github.io/iptv/categories/entertainment.m3u"
-          add_playlist "Serisy" "https://iptv-org.github.io/iptv/categories/series.m3u"
+
+          # Countries & Adult
+          add_playlist "Omee TV" "https://iptv-org.github.io/iptv/countries/uk.m3u"
+          add_playlist "Scholars TV" "https://iptv-org.github.io/iptv/countries/us.m3u"
+          add_playlist "Xtreme TV" "https://iptv-org.github.io/iptv/countries/in.m3u"
+          add_playlist "India Sports" "https://iptv-org.github.io/iptv/countries/in.m3u"
+          add_playlist "Quality TV" "https://iptv-org.github.io/iptv/countries/bd.m3u"
+          add_playlist "BD TV" "https://iptv-org.github.io/iptv/countries/bd.m3u"
+          add_playlist "DisCot TV" "http://adultiptv.net/chs.m3u"
+          add_playlist "DisCot TV" "https://iptvmate.net/files/adult.m3u"
 
       - name: Save updated Mega TV file
         run: |
