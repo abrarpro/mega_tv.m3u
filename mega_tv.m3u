@@ -1,8 +1,39 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="EkattorTV.bd" group-title="Mega TV - News",Ekattor TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ekattor-tv/master.m3u8
+#EXTINF:-1 tvg-id="News24.bd" group-title="Mega TV - News",News 24
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-24/master.m3u8
+#EXTINF:-1 tvg-id="EkhonTV.bd" group-title="Mega TV - News",Ekhon TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ekhon-tv/master.m3u8
+#EXTINF:-1 tvg-id="ABPAnanda.in" group-title="Mega TV - News",ABP Ananda (Kolkata)
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
+#EXTINF:-1 tvg-id="News18Bangla.in" group-title="Mega TV - News",News18 Bangla
+https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 tvg-id="RTV.bd" group-title="Mega TV - Entertainment",RTV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rtv/master.m3u8
+#EXTINF:-1 tvg-id="MaasrangaTV.bd" group-title="Mega TV - Entertainment",Maasranga TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/maasranga-tv/master.m3u8
+#EXTINF:-1 tvg-id="DeeptoTV.bd" group-title="Mega TV - Entertainment",Deepto TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/deepto-tv/master.m3u8
+#EXTINF:-1 tvg-id="BoishakhiTV.bd" group-title="Mega TV - Entertainment",Boishakhi TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boishakhi-tv/master.m3u8
+#EXTINF:-1 tvg-id="DeshTV.bd" group-title="Mega TV - Entertainment",Desh TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/desh-tv/master.m3u8
+#EXTINF:-1 tvg-id="BTV.bd" group-title="Mega TV - Entertainment",BTV (Bangladesh Television)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/btv-world/master.m3u8
+
+#EXTINF:-1 tvg-id="DurontoTV.bd" group-title="Mega TV - Kids",Duronto TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/duronto-tv/master.m3u8
+#EXTINF:-1 tvg-id="RongeenTV.in" group-title="Mega TV - Kids",Rongeen TV (Bangla Cartoons)
+https://rongeentv.akamaized.net/hls/live/2018508/rongeentv/master.m3u8
+
 #EXTINF:-1 group-title="Mega TV - Sports",T Sports
 https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8
 #EXTINF:-1 group-title="Mega TV - Sports",T Sports Server 1
 https://tvsen5.aynaott.com/kP9vX2mZ7qL5wN3t/index.m3u8
+#EXTINF:-1 tvg-id="PTVSports.pk" group-title="Mega TV - Sports",PTV Sports (Cricket/Football)
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="00sReplay.us@SD" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" group-title="MoviTV - Movies",00s Replay
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
 #EXTINF:-1 tvg-id="4everCinema.ua@SD" tvg-logo="https://i.imgur.com/vFOgVbG.png" group-title="MoviTV - Movies",4ever Cinema (1080p)
