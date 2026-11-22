@@ -1,73 +1,25 @@
 #EXTM3U
 
-==========================================
-
-1. Desi Channel
-
-==========================================
-
-#EXTINF:-1 tvg-name="Desi Channel" group-title="Desi Channel",Desi Channel
+#EXTINF:-1 group-title="NovaStream 8X",📁 Desi Channel
 https://raw.githubusercontent.com/abrarpro/iptv.m3u/refs/heads/main/Desi%20Channel.m3u8
 
-==========================================
-
-2. Cartoon TV
-
-==========================================
-
-#EXTINF:-1 tvg-name="Cartoon TV" group-title="Cartoon TV",Cartoon TV
+#EXTINF:-1 group-title="NovaStream 8X",📁 Cartoon TV
 https://raw.githubusercontent.com/abrarpro/iptv.m3u/refs/heads/main/cartoon.m3u
 
-==========================================
-
-3. Channel X
-
-==========================================
-
-#EXTINF:-1 tvg-name="Channel X" group-title="Channel X",Channel X
+#EXTINF:-1 group-title="NovaStream 8X",📁 Channel X
 https://raw.githubusercontent.com/ahan443/FreeHunter/refs/heads/main/otherseller.m3u
 
-==========================================
-
-4. Channel X2
-
-==========================================
-
-#EXTINF:-1 tvg-name="Channel X2" group-title="Channel X2",Channel X2
+#EXTINF:-1 group-title="NovaStream 8X",📁 Channel X2
 https://raw.githubusercontent.com/ahan443/FreeHunter/refs/heads/main/uyycbr.m3u
 
-==========================================
-
-5. Channel X3
-
-==========================================
-
-#EXTINF:-1 tvg-name="Channel X3" group-title="Channel X3",Channel X3
+#EXTINF:-1 group-title="NovaStream 8X",📁 Channel X3
 https://raw.githubusercontent.com/ahan443/FreeHunter/refs/heads/main/171126.m3u
 
-==========================================
-
-6. Channel X4
-
-==========================================
-
-#EXTINF:-1 tvg-name="Channel X4" group-title="Channel X4",Channel X4
+#EXTINF:-1 group-title="NovaStream 8X",📁 Channel X4
 https://raw.githubusercontent.com/ahan443/FreeHunter/refs/heads/main/161126.m3u
 
-==========================================
-
-7. OTT TV
-
-==========================================
-
-#EXTINF:-1 tvg-name="OTT TV" group-title="OTT TV",OTT TV
+#EXTINF:-1 group-title="NovaStream 8X",📁 OTT TV
 https://raw.githubusercontent.com/ahan443/FreeHunter/refs/heads/main/12112026.m3u
 
-==========================================
-
-8. OPTV
-
-==========================================
-
-#EXTINF:-1 tvg-name="OPTV" group-title="OPTV",OPTV
+#EXTINF:-1 group-title="NovaStream 8X",📁 OPTV
 https://raw.githubusercontent.com/ahan443/FreeHunter/refs/heads/main/0611261.m3u
