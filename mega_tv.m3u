@@ -10080,8 +10080,6 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
 #EXTINF:-1 tvg-id="DDAssam.in@SD" tvg-name="DD Assam" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/dd-assam.png" tvg-chno="258" channel-id="DDAssam.in@SD" tvg-country="IN" tvg-language="asm" group-title="Flexo TV - Indian Entertainment",DD Assam
 https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
-#EXTINF:-1 tvg-id="DDBharati.in@SD" tvg-name="DD Bharati" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/dd-bharati.png" tvg-chno="259" channel-id="DDBharati.in@SD" tvg-country="IN" tvg-language="hin" group-title="Flexo TV - Indian Entertainment",DD Bharati
-https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
 #EXTINF:-1 tvg-id="DDBihar.in@SD" tvg-name="DD Bihar" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/dd-bihar.png" tvg-chno="260" channel-id="DDBihar.in@SD" tvg-country="IN" tvg-language="hin" group-title="Flexo TV - Indian Entertainment",DD Bihar
 https://cdn.pishow.tv/ott/live/35/master.m3u8
 #EXTINF:-1 tvg-id="DDChandana.in@SD" tvg-name="DD Chandana" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/dd-chandana.png" tvg-chno="261" channel-id="DDChandana.in@SD" tvg-country="IN" tvg-language="kan" group-title="Flexo TV - Indian Entertainment",DD Chandana
@@ -11950,7 +11948,7 @@ http://103.253.74.210:7070/stream/122/index.m3u8
 https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport.in@SD" tvg-name="Eurosport" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/eurosport.png" channel-id="Eurosport.in@SD" tvg-country="IN" tvg-language="eng" group-title="Flexo TV - Review",Eurosport
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
-#EXTINF:-1 tvg-id="FashionLifeStyle.ru@SD" tvg-name="Fashion&LifeStyle" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/fashion-tv-aa7f9461cf.png" channel-id="FashionLifeStyle.ru@SD" tvg-country="RU" tvg-language="eng" group-title="Flexo TV - Review",Fashion&LifeStyle
+#EXTINF:-1 tvg-id="FashionLifeStyle.ru@SD" tvg-name="Fashion&LifeStyle" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/fashion-tv-aa7f9461cf.png" tvg-chno="426" channel-id="FashionLifeStyle.ru@SD" tvg-country="RU" tvg-language="eng" group-title="Flexo TV - International",Fashion&LifeStyle
 http://stream.mcquack.net/119/index.m3u8
 #EXTINF:-1 tvg-id="GaziTV.bd" tvg-name="G TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/g-tv.png" channel-id="GaziTV.bd" tvg-country="BD" tvg-language="ben" group-title="Flexo TV - Review",G TV
 http://103.135.253.32:8080/Gazi-TV/index.m3u8
@@ -23305,7 +23303,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/653660b42
 # Developed By: ABU SAEEiD × Rifaz
 # GitHub @abusaeeidx
 # IPTV Telegram Channels: @xfireflixbd
-# Last Updated: 2026-11-24 07:16 AM (BD Time)
+# Last Updated: 2026-11-24 05:07 PM (BD Time)
 # Disclaimer:
 # This tool does NOT host any content.
 # It aggregates publicly available data for informational purposes only.
@@ -23313,6 +23311,18 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/653660b42
 #==================================
 #EXTINF:-1 tvg-name="Welcome to PlayZ TV" group-title="Jonno TV - Welcome to PlayZ TV | New App" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyniKyW9pUz1OKx5bgzLASwGVSuP0e7hX9FxVMTJMHxhu8X0tpucgSplBZgM8pCYrJJH0P2_dTC1-wzp4mMUU4sKnOzghGPCwWdbYOOa4jTyhpr7ydNj-UK-bc56IMsk2H3WZJ-SzSZIk0dTpyABCFR2_zjC2_c86W1pv7odFBT_Y-hyJs62g-3zCJkPGd/s1024/1000398131.png",Welcome to PlayZ TV
 https://playztv.pages.dev/promo/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="Jonno TV - Live Event", India A vs UAE - 24 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795561045~acl=/*~id=40299324667696236618405203464960~hmac=4397bd197787cea5a690ecf53e6c3ed4799bc4d1df4029d9c6fef9c19af7d35d
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="Jonno TV - Live Event", India A vs UAE - 24 Nov 2026 [HIN] - ACC Men's Asia Cup Rising Stars 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795561045~acl=/*~id=40299324667696236618405203464960~hmac=4397bd197787cea5a690ecf53e6c3ed4799bc4d1df4029d9c6fef9c19af7d35d
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="Jonno TV - Live Event", India A vs UAE - 24 Nov 2026 [TAM] - ACC Men's Asia Cup Rising Stars 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795561045~acl=/*~id=40299324667696236618405203464960~hmac=4397bd197787cea5a690ecf53e6c3ed4799bc4d1df4029d9c6fef9c19af7d35d
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="Jonno TV - Live Event", India A vs UAE - 24 Nov 2026 [TEL] - ACC Men's Asia Cup Rising Stars 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795561045~acl=/*~id=40299324667696236618405203464960~hmac=4397bd197787cea5a690ecf53e6c3ed4799bc4d1df4029d9c6fef9c19af7d35d
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="Jonno TV - Live Event", India A vs UAE - 24 Nov 2026 [KAN] - ACC Men's Asia Cup Rising Stars 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795561045~acl=/*~id=40299324667696236618405203464960~hmac=4397bd197787cea5a690ecf53e6c3ed4799bc4d1df4029d9c6fef9c19af7d35d
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029724/1795410670843751_ACRS26_PAK_A_vs_NEPAL_live_landscape_thumb.jpg" group-title="Jonno TV - Live Event", Pakistan A vs Nepal - 24 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795561045~acl=/*~id=40299324667696236618405203464960~hmac=4397bd197787cea5a690ecf53e6c3ed4799bc4d1df4029d9c6fef9c19af7d35d
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Jonno TV - Akash Go",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Jonno TV - Akash Go",Deepto TV
@@ -23961,91 +23971,103 @@ https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102658&u=ee5437a7-c
 https://playztv.pages.dev/promo/master.m3u8
 #EXTINF:-1 tvg-name="Deshi TV (720p)" group-title="Jonno TV - Unknown",Deshi TV (720p)
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="M3U World 4K (1080p)" group-title="Jonno TV - Unknown",M3U World 4K (1080p)
+https://m3uworld4k.paid4k.workers.dev/index.m3u8
 #EXTINF:-1 tvg-name="Boishakhi TV" group-title="Jonno TV - Unknown",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1 tvg-name="Maasranga TV (720p)" group-title="Jonno TV - Unknown",Maasranga TV (720p)
-https://tvsen5.aynaott.com/maasrangatv/index.m3u8
-#EXTINF:-1 tvg-name="Rajdhani TV (1080p)" group-title="Jonno TV - Unknown",Rajdhani TV (1080p)
-https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
-#EXTINF:-1 tvg-name="NTV (720p)" group-title="Jonno TV - Unknown",NTV (720p)
-https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 #EXTINF:-1 tvg-name="RTV (720p)" group-title="Jonno TV - Unknown",RTV (720p)
 https://tvsen5.aynaott.com/RtvHD/index.m3u8
+#EXTINF:-1 tvg-name="Rajdhani TV (1080p)" group-title="Jonno TV - Unknown",Rajdhani TV (1080p)
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 tvg-name="Nexus TV (576p)" group-title="Jonno TV - Unknown",Nexus TV (576p)
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="Duronto TV (720p)" group-title="Jonno TV - Unknown",Duronto TV (720p)
 https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+#EXTINF:-1 tvg-name="Maasranga TV (720p)" group-title="Jonno TV - Unknown",Maasranga TV (720p)
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8
+#EXTINF:-1 tvg-name="NTV (720p)" group-title="Jonno TV - Unknown",NTV (720p)
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 #EXTINF:-1 tvg-name="Ekushey TV (480p)" group-title="Jonno TV - Unknown",Ekushey TV (480p)
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-name="Sananda TV" group-title="Jonno TV - Indian Bangla",Sananda TV
 http://27.124.71.27/Zee_Bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Ananda TV" group-title="Jonno TV - Bangladesh",Ananda TV
+https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
+#EXTINF:-1 tvg-name="ATN News" group-title="Jonno TV - Bangladesh",ATN News
+https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 #EXTINF:-1 tvg-name="Bein Sports Extra 2" group-title="Jonno TV - Sports",Bein Sports Extra 2
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-name="Boishakhi TV" group-title="Jonno TV - Bangladesh",Boishakhi TV
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
-#EXTINF:-1 tvg-name="ATN News" group-title="Jonno TV - Bangladesh",ATN News
-https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
-#EXTINF:-1 tvg-name="Ananda TV" group-title="Jonno TV - Bangladesh",Ananda TV
-https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 #EXTINF:-1 tvg-name="BTV Chattogram" group-title="Jonno TV - Bangladesh",BTV Chattogram
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 #EXTINF:-1 tvg-name="Channel I" group-title="Jonno TV - Bangladesh",Channel I
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
-#EXTINF:-1 tvg-name="Ekattor TV" group-title="Jonno TV - Bangladesh",Ekattor TV
-https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
-#EXTINF:-1 tvg-name="MTRSPT" group-title="Jonno TV - Sports",MTRSPT
-https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8
-#EXTINF:-1 tvg-name="Horse & Country" group-title="Jonno TV - Sports",Horse & Country
-https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Pardesi TV" group-title="Jonno TV - India",Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Desh TV" group-title="Jonno TV - Bangladesh",Desh TV
-https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
-#EXTINF:-1 tvg-name="Ekhon TV" group-title="Jonno TV - Bangladesh",Ekhon TV
-https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
-#EXTINF:-1 tvg-name="Ekushe ETV" group-title="Jonno TV - Bangladesh",Ekushe ETV
-https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
 #EXTINF:-1 tvg-name="Willow Extra" group-title="Jonno TV - Sports",Willow Extra
 http://27.124.71.27/Willow_Extra/index.m3u8
+#EXTINF:-1 tvg-name="MTRSPT" group-title="Jonno TV - Sports",MTRSPT
+https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8
 #EXTINF:-1 tvg-name="Global TV" group-title="Jonno TV - Bangladesh",Global TV
 https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
-#EXTINF:-1 tvg-name="Sony TV HD" group-title="Jonno TV - India",Sony TV HD
-http://premimum.online:80/live/jen12345/jen54321/98854.ts
+#EXTINF:-1 tvg-name="Desh TV" group-title="Jonno TV - Bangladesh",Desh TV
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
+#EXTINF:-1 tvg-name="Horse & Country" group-title="Jonno TV - Sports",Horse & Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Ekushe ETV" group-title="Jonno TV - Bangladesh",Ekushe ETV
+https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
+#EXTINF:-1 tvg-name="Ekhon TV" group-title="Jonno TV - Bangladesh",Ekhon TV
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
+#EXTINF:-1 tvg-name="Ekattor TV" group-title="Jonno TV - Bangladesh",Ekattor TV
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 #EXTINF:-1 tvg-name="NTV" group-title="Jonno TV - Bangladesh",NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Jonno TV - Music",Hindi Hits HD
-http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-name="Music TV" group-title="Jonno TV - Music",Music TV
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-name="My TV" group-title="Jonno TV - Bangladesh",My TV
 https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
-#EXTINF:-1 tvg-name="A Sports" group-title="Jonno TV - Sports",A Sports
-https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
+#EXTINF:-1 tvg-name="Pardesi TV" group-title="Jonno TV - India",Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="SA TV" group-title="Jonno TV - Bangladesh",SA TV
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
-#EXTINF:-1 tvg-name="Trace Sport" group-title="Jonno TV - Sports",Trace Sport
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Bhojpuri Cinema" group-title="Jonno TV - India",Bhojpuri Cinema
-https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-name="Sony TV HD" group-title="Jonno TV - India",Sony TV HD
+http://premimum.online:80/live/jen12345/jen54321/98854.ts
+#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Jonno TV - Music",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-name="DW" group-title="Jonno TV - Others",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-#EXTINF:-1 tvg-name="Shemaroo Bollywood" group-title="Jonno TV - India",Shemaroo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-name="Trace Sport" group-title="Jonno TV - Sports",Trace Sport
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio BBC" group-title="Jonno TV - Radio",Radio BBC
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_vlow_sbr_v1/cfs/bbc_world_service_news_internet.m3u8
+#EXTINF:-1 tvg-name="Music TV" group-title="Jonno TV - Music",Music TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-name="Bhojpuri Cinema" group-title="Jonno TV - India",Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-name="A Sports" group-title="Jonno TV - Sports",A Sports
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
 #EXTINF:-1 tvg-name="Cricket Gold" group-title="Jonno TV - Sports",Cricket Gold
 https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
+#EXTINF:-1 tvg-name="30A Music" group-title="Jonno TV - Music",30A Music
+https://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-name="Rongeen TV" group-title="Jonno TV - Kids",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Animal Planet HD" group-title="Jonno TV - Infotainment",Animal Planet HD
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-name="TNT Music" group-title="Jonno TV - Music",TNT Music
 https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
-#EXTINF:-1 tvg-name="30A Music" group-title="Jonno TV - Music",30A Music
-https://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-name="Welcome to PlayZ TV" group-title="Odesy TV - Welcome to PlayZ TV | New App" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyniKyW9pUz1OKx5bgzLASwGVSuP0e7hX9FxVMTJMHxhu8X0tpucgSplBZgM8pCYrJJH0P2_dTC1-wzp4mMUU4sKnOzghGPCwWdbYOOa4jTyhpr7ydNj-UK-bc56IMsk2H3WZJ-SzSZIk0dTpyABCFR2_zjC2_c86W1pv7odFBT_Y-hyJs62g-3zCJkPGd/s1024/1000398131.png",Welcome to PlayZ TV
 https://playztv.pages.dev/promo/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="Odesy TV - Live Event", India A vs UAE - 24 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795561045~acl=/*~id=40299324667696236618405203464960~hmac=4397bd197787cea5a690ecf53e6c3ed4799bc4d1df4029d9c6fef9c19af7d35d
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="Odesy TV - Live Event", India A vs UAE - 24 Nov 2026 [HIN] - ACC Men's Asia Cup Rising Stars 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795561045~acl=/*~id=40299324667696236618405203464960~hmac=4397bd197787cea5a690ecf53e6c3ed4799bc4d1df4029d9c6fef9c19af7d35d
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="Odesy TV - Live Event", India A vs UAE - 24 Nov 2026 [TAM] - ACC Men's Asia Cup Rising Stars 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795561045~acl=/*~id=40299324667696236618405203464960~hmac=4397bd197787cea5a690ecf53e6c3ed4799bc4d1df4029d9c6fef9c19af7d35d
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="Odesy TV - Live Event", India A vs UAE - 24 Nov 2026 [TEL] - ACC Men's Asia Cup Rising Stars 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795561045~acl=/*~id=40299324667696236618405203464960~hmac=4397bd197787cea5a690ecf53e6c3ed4799bc4d1df4029d9c6fef9c19af7d35d
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="Odesy TV - Live Event", India A vs UAE - 24 Nov 2026 [KAN] - ACC Men's Asia Cup Rising Stars 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795561045~acl=/*~id=40299324667696236618405203464960~hmac=4397bd197787cea5a690ecf53e6c3ed4799bc4d1df4029d9c6fef9c19af7d35d
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029724/1795410670843751_ACRS26_PAK_A_vs_NEPAL_live_landscape_thumb.jpg" group-title="Odesy TV - Live Event", Pakistan A vs Nepal - 24 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795561045~acl=/*~id=40299324667696236618405203464960~hmac=4397bd197787cea5a690ecf53e6c3ed4799bc4d1df4029d9c6fef9c19af7d35d
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Odesy TV - Akash Go",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Odesy TV - Akash Go",Deepto TV
@@ -24618,84 +24640,84 @@ https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1784102658&u=ee5437a7-c16b-4700
 https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102658&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=b75669e4aa0dd58c602b637ab66af304
 #EXTINF:-1 tvg-name="Deshi TV (720p)" group-title="Odesy TV - Unknown",Deshi TV (720p)
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="M3U World 4K (1080p)" group-title="Odesy TV - Unknown",M3U World 4K (1080p)
+https://m3uworld4k.paid4k.workers.dev/index.m3u8
 #EXTINF:-1 tvg-name="Boishakhi TV" group-title="Odesy TV - Unknown",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1 tvg-name="Maasranga TV (720p)" group-title="Odesy TV - Unknown",Maasranga TV (720p)
-https://tvsen5.aynaott.com/maasrangatv/index.m3u8
-#EXTINF:-1 tvg-name="Rajdhani TV (1080p)" group-title="Odesy TV - Unknown",Rajdhani TV (1080p)
-https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
-#EXTINF:-1 tvg-name="NTV (720p)" group-title="Odesy TV - Unknown",NTV (720p)
-https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 #EXTINF:-1 tvg-name="RTV (720p)" group-title="Odesy TV - Unknown",RTV (720p)
 https://tvsen5.aynaott.com/RtvHD/index.m3u8
+#EXTINF:-1 tvg-name="Rajdhani TV (1080p)" group-title="Odesy TV - Unknown",Rajdhani TV (1080p)
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 tvg-name="Nexus TV (576p)" group-title="Odesy TV - Unknown",Nexus TV (576p)
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 #EXTINF:-1 tvg-name="Duronto TV (720p)" group-title="Odesy TV - Unknown",Duronto TV (720p)
 https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+#EXTINF:-1 tvg-name="Maasranga TV (720p)" group-title="Odesy TV - Unknown",Maasranga TV (720p)
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8
+#EXTINF:-1 tvg-name="NTV (720p)" group-title="Odesy TV - Unknown",NTV (720p)
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 #EXTINF:-1 tvg-name="Ekushey TV (480p)" group-title="Odesy TV - Unknown",Ekushey TV (480p)
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-name="Sananda TV" group-title="Odesy TV - Indian Bangla",Sananda TV
 http://27.124.71.27/Zee_Bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Ananda TV" group-title="Odesy TV - Bangladesh",Ananda TV
+https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
+#EXTINF:-1 tvg-name="ATN News" group-title="Odesy TV - Bangladesh",ATN News
+https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 #EXTINF:-1 tvg-name="Bein Sports Extra 2" group-title="Odesy TV - Sports",Bein Sports Extra 2
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-name="Boishakhi TV" group-title="Odesy TV - Bangladesh",Boishakhi TV
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
-#EXTINF:-1 tvg-name="ATN News" group-title="Odesy TV - Bangladesh",ATN News
-https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
-#EXTINF:-1 tvg-name="Ananda TV" group-title="Odesy TV - Bangladesh",Ananda TV
-https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 #EXTINF:-1 tvg-name="BTV Chattogram" group-title="Odesy TV - Bangladesh",BTV Chattogram
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 #EXTINF:-1 tvg-name="Channel I" group-title="Odesy TV - Bangladesh",Channel I
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
-#EXTINF:-1 tvg-name="Ekattor TV" group-title="Odesy TV - Bangladesh",Ekattor TV
-https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
-#EXTINF:-1 tvg-name="MTRSPT" group-title="Odesy TV - Sports",MTRSPT
-https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8
-#EXTINF:-1 tvg-name="Horse & Country" group-title="Odesy TV - Sports",Horse & Country
-https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Pardesi TV" group-title="Odesy TV - India",Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Desh TV" group-title="Odesy TV - Bangladesh",Desh TV
-https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
-#EXTINF:-1 tvg-name="Ekhon TV" group-title="Odesy TV - Bangladesh",Ekhon TV
-https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
-#EXTINF:-1 tvg-name="Ekushe ETV" group-title="Odesy TV - Bangladesh",Ekushe ETV
-https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
 #EXTINF:-1 tvg-name="Willow Extra" group-title="Odesy TV - Sports",Willow Extra
 http://27.124.71.27/Willow_Extra/index.m3u8
+#EXTINF:-1 tvg-name="MTRSPT" group-title="Odesy TV - Sports",MTRSPT
+https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8
 #EXTINF:-1 tvg-name="Global TV" group-title="Odesy TV - Bangladesh",Global TV
 https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
-#EXTINF:-1 tvg-name="Sony TV HD" group-title="Odesy TV - India",Sony TV HD
-http://premimum.online:80/live/jen12345/jen54321/98854.ts
+#EXTINF:-1 tvg-name="Desh TV" group-title="Odesy TV - Bangladesh",Desh TV
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
+#EXTINF:-1 tvg-name="Horse & Country" group-title="Odesy TV - Sports",Horse & Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Ekushe ETV" group-title="Odesy TV - Bangladesh",Ekushe ETV
+https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
+#EXTINF:-1 tvg-name="Ekhon TV" group-title="Odesy TV - Bangladesh",Ekhon TV
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
+#EXTINF:-1 tvg-name="Ekattor TV" group-title="Odesy TV - Bangladesh",Ekattor TV
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 #EXTINF:-1 tvg-name="NTV" group-title="Odesy TV - Bangladesh",NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Odesy TV - Music",Hindi Hits HD
-http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-name="Music TV" group-title="Odesy TV - Music",Music TV
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-name="My TV" group-title="Odesy TV - Bangladesh",My TV
 https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
-#EXTINF:-1 tvg-name="A Sports" group-title="Odesy TV - Sports",A Sports
-https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
+#EXTINF:-1 tvg-name="Pardesi TV" group-title="Odesy TV - India",Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="SA TV" group-title="Odesy TV - Bangladesh",SA TV
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
+#EXTINF:-1 tvg-name="Sony TV HD" group-title="Odesy TV - India",Sony TV HD
+http://premimum.online:80/live/jen12345/jen54321/98854.ts
+#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Odesy TV - Music",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-name="Trace Sport" group-title="Odesy TV - Sports",Trace Sport
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Bhojpuri Cinema" group-title="Odesy TV - India",Bhojpuri Cinema
-https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-name="Shemaroo Bollywood" group-title="Odesy TV - India",Shemaroo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio BBC" group-title="Odesy TV - Radio",Radio BBC
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_vlow_sbr_v1/cfs/bbc_world_service_news_internet.m3u8
+#EXTINF:-1 tvg-name="Music TV" group-title="Odesy TV - Music",Music TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-name="Bhojpuri Cinema" group-title="Odesy TV - India",Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-name="A Sports" group-title="Odesy TV - Sports",A Sports
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
 #EXTINF:-1 tvg-name="Cricket Gold" group-title="Odesy TV - Sports",Cricket Gold
 https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
+#EXTINF:-1 tvg-name="30A Music" group-title="Odesy TV - Music",30A Music
+https://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-name="Rongeen TV" group-title="Odesy TV - Kids",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TNT Music" group-title="Odesy TV - Music",TNT Music
 https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
-#EXTINF:-1 tvg-name="30A Music" group-title="Odesy TV - Music",30A Music
-https://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-id="AkhonKolkata.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/akhon_kolkata.png" group-title="Forest TV - Bangla",Akhon Kolkata
 https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8
 #EXTINF:-1 tvg-id="amarbangla.bd" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/amar_bangla.png" group-title="Forest TV - Bangla",Amar Bangla
@@ -49051,86 +49073,72 @@ http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="DisCot TV - XXX",AdultIPTV.net Asian
 http://cdn.adultiptv.net/asian.m3u8
 #EXTINF:0 group-title="DisCot TV - General",MyCamTV Teen Girls     
-https://live.mycamtv.com/teen.m3u8
+https://fasterwebtv.com/stream0.m3u8
 #EXTINF:0 group-title="DisCot TV - General",MyCamTV MILF
-https://live.mycamtv.com/milf.m3u8
+https://fasterwebtv.com/stream1.m3u8
 #EXTINF:0 group-title="DisCot TV - General",MyCamTV Young Girls
-https://live.mycamtv.com/young.m3u8
+https://fasterwebtv.com/stream2.m3u8
 #EXTINF:0 group-title="DisCot TV - General",MyCamTV Mature
-https://live.mycamtv.com/bigtits.m3u8
+https://fasterwebtv.com/stream3.m3u8
 #EXTINF:0 group-title="DisCot TV - General",MyCamTV Arab Girls
-https://live.mycamtv.com/arab.m3u8
+https://fasterwebtv.com/stream4.m3u8
 #EXTINF:0 group-title="DisCot TV - General",MyCamTV Ebony Girls
-https://live.mycamtv.com/ebony.m3u8
+https://fasterwebtv.com/stream5.m3u8
 #EXTINF:0 group-title="DisCot TV - General",MyCamTV Asian Girls
-https://live.mycamtv.com/asian.m3u8
+https://fasterwebtv.com/stream6.m3u8
 #EXTINF:0 group-title="DisCot TV - General",MyCamTV Brunette Girls
-https://live.mycamtv.com/brunette.m3u8
+https://fasterwebtv.com/stream7.m3u8
 #EXTINF:0 group-title="DisCot TV - General",MyCamTV Latina Girls
-https://live.mycamtv.com/latina.m3u8
+https://fasterwebtv.com/stream8.m3u8
 #EXTINF:0 group-title="DisCot TV - General",MyCamTV White Girls
-https://live.mycamtv.com/white.m3u8
+https://fasterwebtv.com/stream9.m3u8
 #EXTINF:0 group-title="DisCot TV - General",MyCamTV Blonde Girls
-https://live.mycamtv.com/blonde.m3u8
-#EXTINF:0 group-title="DisCot TV - General",MyCamTV Anal
-https://live.mycamtv.com/anal.m3u8
-#EXTINF:0 group-title="DisCot TV - General",MyCamTV Big Ass Girls
-https://live.mycamtv.com/bigass.m3u8
-#EXTINF:0 group-title="DisCot TV - General",MyCamTV Girls Squirt
-https://live.mycamtv.com/squirt.m3u8
-#EXTINF:0 group-title="DisCot TV - General",MyCamTV Big Tits Girls
-https://live.mycamtv.com/bigtits.m3u8
-#EXTINF:0 group-title="DisCot TV - General",MyCamTV Skinny Girls
-https://live.mycamtv.com/skinny.m3u8
-#EXTINF:0 group-title="DisCot TV - General",MyCamTV Medium Girls
-https://live.mycamtv.com/medium.m3u8
-#EXTINF:0 group-title="DisCot TV - General",MyCamTV Blowjob
-https://live.mycamtv.com/blowjob.m3u8
+https://fasterwebtv.com/stream10.m3u8
 #EXTINF:0 group-title="DisCot TV - General",XXX Live Cams
-https://cdn.redtraffic.net/livecams.m3u8
+https://fasterwebtv.com/livecams.m3u8
 #EXTINF:0 group-title="DisCot TV - General",XXX MILF
-https://cdn.redtraffic.net/milf.m3u8
+https://fasterwebtv.com/milf.m3u8
 #EXTINF:0 group-title="DisCot TV - General",XXX Big Dick
-https://cdn.redtraffic.net/bigdick.m3u8
+https://fasterwebtv.com/bigdick.m3u8
 #EXTINF:0 group-title="DisCot TV - General",XXX Big Tits
-https://cdn.redtraffic.net/bigtits.m3u8
+https://fasterwebtv.com/bigtits.m3u8
 #EXTINF:0 group-title="DisCot TV - General",XXX Fetish
-https://cdn.redtraffic.net/fetish.m3u8
+https://fasterwebtv.com/fetish.m3u8
 #EXTINF:0 group-title="DisCot TV - General",XXX Pornstar
-https://cdn.redtraffic.net/pornstar.m3u8
+https://fasterwebtv.com/pornstar.m3u8
 #EXTINF:0 group-title="DisCot TV - General",XXX Big Ass
-https://cdn.redtraffic.net/bigass.m3u8
+https://fasterwebtv.com/bigass.m3u8
 #EXTINF:0 group-title="DisCot TV - General",XXX Interracial
-https://cdn.redtraffic.net/interracial.m3u8
+https://fasterwebtv.com/interracial.m3u8
 #EXTINF:0 group-title="DisCot TV - General",XXX Latina
-https://cdn.redtraffic.net/latina.m3u8
+https://fasterwebtv.com/latina.m3u8
 #EXTINF:0 group-title="DisCot TV - General",XXX POV
-https://cdn.redtraffic.net/pov.m3u8
+https://fasterwebtv.com/pov.m3u8
 #EXTINF:0 group-title="DisCot TV - General",XXX Blowjob
-https://cdn.redtraffic.net/blowjob.m3u8
+https://fasterwebtv.com/blowjob.m3u8
 #EXTINF:0 group-title="DisCot TV - General",XXX Teen
-https://cdn.redtraffic.net/teen.m3u8
+https://fasterwebtv.com/teen.m3u8
 #EXTINF:0 group-title="DisCot TV - General",XXX Hardcore
-https://cdn.redtraffic.net/hardcore.m3u8
+https://fasterwebtv.com/hardcore.m3u8
 #EXTINF:0 group-title="DisCot TV - General",XXX Cuckold
-https://cdn.redtraffic.net/cuckold.m3u8
+https://fasterwebtv.com/cuckold.m3u8
 #EXTINF:0 group-title="DisCot TV - General",XXX Threesome
-https://cdn.redtraffic.net/threesome.m3u8
+https://fasterwebtv.com/threesome.m3u8
 #EXTINF:0 group-title="DisCot TV - General",XXX Russian
-https://cdn.redtraffic.net/russian.m3u8
+https://fasterwebtv.com/russian.m3u8
 #EXTINF:0 group-title="DisCot TV - General",XXX Lesbian
-https://cdn.redtraffic.net/lesbian.m3u8
+https://fasterwebtv.com/lesbian.m3u8
 #EXTINF:0 group-title="DisCot TV - General",XXX Rough
-https://cdn.redtraffic.net/rough.m3u8
+https://fasterwebtv.com/rough.m3u8
 #EXTINF:0 group-title="DisCot TV - General",XXX Gangbang
-https://cdn.redtraffic.net/gangbang.m3u8
+https://fasterwebtv.com/gangbang.m3u8
 #EXTINF:0 group-title="DisCot TV - General",XXX Anal
-https://cdn.redtraffic.net/anal.m3u8
+https://fasterwebtv.com/anal.m3u8
 #EXTINF:0 group-title="DisCot TV - General",XXX Compilation
-https://cdn.redtraffic.net/compilation.m3u8
+https://fasterwebtv.com/compilation.m3u8
 #EXTINF:0 group-title="DisCot TV - General",XXX Brunette
-https://cdn.redtraffic.net/brunette.m3u8
+https://fasterwebtv.com/brunette.m3u8
 #EXTINF:0 group-title="DisCot TV - General",XXX Blonde
-https://cdn.redtraffic.net/blonde.m3u8
+https://fasterwebtv.com/blonde.m3u8
 #EXTINF:0 group-title="DisCot TV - General",XXX Gay
-https://cdn.redtraffic.net/gay.m3u8
+https://fasterwebtv.com/gay.m3u8
